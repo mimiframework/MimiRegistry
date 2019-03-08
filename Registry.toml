@@ -7,5 +7,4 @@ Registry for Mimi models
 """
 
 [packages]
-be3a4780-1b43-11e9-0c60-054b7c4010b8 = { name = "MimiTestModel", path = "MimiTestModel"}
-f500bf80-3be4-11e9-17ce-876a9a04c77e = { name = "MimiDice2013", path = "MimiDice2013"}
+54b9761e-41d9-11e9-3151-3dc5fec6a45b = { name = "MimiRICE2010", path = "MimiRICE2010" }
