@@ -1,0 +1,3 @@
+name = "MimiFUND"
+uuid = "b3ba11de-429f-11e9-29f7-cb478ab96e7c"
+repo = "https://github.com/fund-model/MimiFUND.jl.git"
