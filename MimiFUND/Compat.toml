@@ -1,0 +1,5 @@
+["3.8.4-3.8"]
+Distributions = "0.21"
+Mimi = "0.9.3-0.9"
+StatsBase = "0.32"
+julia = "1"
