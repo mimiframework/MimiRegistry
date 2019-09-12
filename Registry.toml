@@ -7,10 +7,10 @@ Registry for Mimi models
 """
 
 [packages]
-4f2c5d70-42a7-11e9-1de8-c370bd984083 = { name = "MimiDICE2010", path = "MimiDICE2010" }
-54b9761e-41d9-11e9-3151-3dc5fec6a45b = { name = "MimiRICE2010", path = "MimiRICE2010" }
-73d86c50-c5fa-11e9-3497-c3dc913e627a = { name = "MimiFAIR", path = "M\\MimiFAIR" }
-98fa84f0-42a6-11e9-254c-d7945e8c710f = { name = "MimiDICE2013", path = "MimiDICE2013" }
-b1d80750-afbf-11e9-0666-4f25b2ea2b65 = { name = "MimiIWG", path = "MimiIWG" }
-b3ba11de-429f-11e9-29f7-cb478ab96e7c = { name = "MimiFUND", path = "MimiFUND" }
-e25d4f70-4200-11e9-37f3-3b45f1cef54f = { name = "MimiPAGE2009", path = "MimiPAGE2009" }
+4f2c5d70-42a7-11e9-1de8-c370bd984083 = { name = "MimiDICE2010", path = "M/MimiDICE2010" }
+54b9761e-41d9-11e9-3151-3dc5fec6a45b = { name = "MimiRICE2010", path = "M/MimiRICE2010" }
+73d86c50-c5fa-11e9-3497-c3dc913e627a = { name = "MimiFAIR", path = "M/MimiFAIR" }
+98fa84f0-42a6-11e9-254c-d7945e8c710f = { name = "MimiDICE2013", path = "M/MimiDICE2013" }
+b1d80750-afbf-11e9-0666-4f25b2ea2b65 = { name = "MimiIWG", path = "M/MimiIWG" }
+b3ba11de-429f-11e9-29f7-cb478ab96e7c = { name = "MimiFUND", path = "M/MimiFUND" }
+e25d4f70-4200-11e9-37f3-3b45f1cef54f = { name = "MimiPAGE2009", path = "M/MimiPAGE2009" }
