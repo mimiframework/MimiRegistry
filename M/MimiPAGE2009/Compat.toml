@@ -1,0 +1,7 @@
+["2.0.6-2"]
+CSVFiles = "0.16"
+DataFrames = "0.19.1-0.19"
+Distributions = "0.20-0.21"
+Mimi = "0.9.3-0.9"
+Query = "0.12"
+julia = "1"
