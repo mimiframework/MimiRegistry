@@ -1,6 +1,14 @@
 [0]
+NLsolve = "4.1.0-4"
+
+["0-0.1.0"]
 CSVFiles = "0.13-0.16"
 DataFrames = "0.19"
 Mimi = "0.9"
-NLsolve = "4.1.0-4"
 julia = "1"
+
+["0.1.1-0"]
+CSVFiles = ["0.13-0.16", "1"]
+DataFrames = "0.19-0.22"
+Mimi = "1"
+julia = "1.4.0-1"
