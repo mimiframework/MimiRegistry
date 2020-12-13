@@ -8,6 +8,7 @@ Registry for Mimi models
 
 [packages]
 20e4a6fe-17a5-11ea-2f9e-a16106eb352d = { name = "MooreAg", path = "M\\MooreAg" }
+3f1801d0-c5f8-11e9-1568-bf13fd643260 = { name = "MimiSNEASY", path = "M/MimiSNEASY" }
 4f2c5d70-42a7-11e9-1de8-c370bd984083 = { name = "MimiDICE2010", path = "M/MimiDICE2010" }
 54b9761e-41d9-11e9-3151-3dc5fec6a45b = { name = "MimiRICE2010", path = "M/MimiRICE2010" }
 73d86c50-c5fa-11e9-3497-c3dc913e627a = { name = "MimiFAIR", path = "M/MimiFAIR" }
