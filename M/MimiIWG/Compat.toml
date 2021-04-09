@@ -9,9 +9,11 @@ Mimi = "0.9.4-0.9"
 MimiFUND = "3.8.4"
 
 [1]
-Mimi = "1"
 MimiDICE2010 = "1"
 MimiPAGE2009 = "3"
+
+["1-1.0.1"]
+Mimi = "1"
 
 ["1.0.0"]
 MimiFUND = "3.8.5"
@@ -23,3 +25,6 @@ Interpolations = "0.13"
 MimiFUND = "3.8.6"
 StatsBase = "0.33"
 XLSX = "0.7.3-0.7"
+
+["1.0.2-1"]
+Mimi = "1.2.1-1"
