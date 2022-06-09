@@ -19,7 +19,6 @@ Mimi = "1"
 MimiFUND = "3.8.5"
 
 ["1.0.1-1"]
-ExcelReaders = "0.11"
 Interpolations = "0.13"
 MimiFUND = "3.8.6"
 StatsBase = "0.33"
@@ -27,6 +26,9 @@ XLSX = "0.7.3-0.7"
 
 ["1.0.1-1.0.2"]
 Distributions = "0.23-0.24"
+
+["1.0.1-1.1"]
+ExcelReaders = "0.11"
 
 ["1.0.2-1.0"]
 Mimi = "1.2.1-1"
